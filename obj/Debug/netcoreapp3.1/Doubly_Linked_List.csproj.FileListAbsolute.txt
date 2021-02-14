@@ -1,0 +1,13 @@
+C:\Users\johnm\Documents\Coding_Dojo\C#\Assignments\Doubly_Linked_List\bin\Debug\netcoreapp3.1\Doubly_Linked_List.exe
+C:\Users\johnm\Documents\Coding_Dojo\C#\Assignments\Doubly_Linked_List\bin\Debug\netcoreapp3.1\Doubly_Linked_List.deps.json
+C:\Users\johnm\Documents\Coding_Dojo\C#\Assignments\Doubly_Linked_List\bin\Debug\netcoreapp3.1\Doubly_Linked_List.runtimeconfig.json
+C:\Users\johnm\Documents\Coding_Dojo\C#\Assignments\Doubly_Linked_List\bin\Debug\netcoreapp3.1\Doubly_Linked_List.runtimeconfig.dev.json
+C:\Users\johnm\Documents\Coding_Dojo\C#\Assignments\Doubly_Linked_List\bin\Debug\netcoreapp3.1\Doubly_Linked_List.dll
+C:\Users\johnm\Documents\Coding_Dojo\C#\Assignments\Doubly_Linked_List\bin\Debug\netcoreapp3.1\Doubly_Linked_List.pdb
+C:\Users\johnm\Documents\Coding_Dojo\C#\Assignments\Doubly_Linked_List\obj\Debug\netcoreapp3.1\Doubly_Linked_List.csprojAssemblyReference.cache
+C:\Users\johnm\Documents\Coding_Dojo\C#\Assignments\Doubly_Linked_List\obj\Debug\netcoreapp3.1\Doubly_Linked_List.AssemblyInfoInputs.cache
+C:\Users\johnm\Documents\Coding_Dojo\C#\Assignments\Doubly_Linked_List\obj\Debug\netcoreapp3.1\Doubly_Linked_List.AssemblyInfo.cs
+C:\Users\johnm\Documents\Coding_Dojo\C#\Assignments\Doubly_Linked_List\obj\Debug\netcoreapp3.1\Doubly_Linked_List.csproj.CoreCompileInputs.cache
+C:\Users\johnm\Documents\Coding_Dojo\C#\Assignments\Doubly_Linked_List\obj\Debug\netcoreapp3.1\Doubly_Linked_List.dll
+C:\Users\johnm\Documents\Coding_Dojo\C#\Assignments\Doubly_Linked_List\obj\Debug\netcoreapp3.1\Doubly_Linked_List.pdb
+C:\Users\johnm\Documents\Coding_Dojo\C#\Assignments\Doubly_Linked_List\obj\Debug\netcoreapp3.1\Doubly_Linked_List.genruntimeconfig.cache

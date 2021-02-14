@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Doubly_Linked_List/1.0.0": {
+        "runtime": {
+          "Doubly_Linked_List.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Doubly_Linked_List/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
